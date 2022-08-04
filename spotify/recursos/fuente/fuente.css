@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'spotify-circular';
+    font-style: normal;
+    font-weight: normal;
+    src: url(./CircularStd-Book.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'spotify-circular';
+    font-style: italic;
+    font-weight: normal;
+    src: url(./CircularStd-BookItalic.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'spotify-circular';
+    font-style: normal;
+    font-weight: 500;
+    src: url(./CircularStd-Medium.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'spotify-circular';
+    font-style: italic;
+    font-weight: 500;
+    src: url(./CircularStd-MediumItalic.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'spotify-circular';
+    font-style: normal;
+    font-weight: bold;
+    src: url(./CircularStd-Bold.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'spotify-circular';
+    font-style: italic;
+    font-weight: bold;
+    src: url(./CircularStd-BoldItalic.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'spotify-circular';
+    font-style: normal;
+    font-weight: bolder;
+    src: url(./CircularStd-Black.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'spotify-circular';
+    font-style: italic;
+    font-weight: bolder;
+    src: url(./CircularStd-BlackItalic.otf) format('opentype');
+}
